@@ -5,10 +5,11 @@ My key skills in data science projects include EDA, feature Engineering, data cl
 
 Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
-🌱 I’m currently learning Blockchain
-👯 I’m looking to collaborate on Kaggle competitions
-📫 How to reach me: Linkedin
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on Kaggle competitions
+- 📫 How to reach me: Linkedin
 www.linkedin.com/in/abdul-rab-a44b151ab
+
 <!--
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
