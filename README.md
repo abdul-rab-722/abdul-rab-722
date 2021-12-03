@@ -1,5 +1,14 @@
 ### Hi there 👋
+### My name is Abdul Rab
+I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University, with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Django. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) and java along with the Knowledge of Data Structures and Algorithms.
+My key skills in data science projects include EDA, feature Engineering, data cleaning.
 
+Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
+
+🌱 I’m currently learning Blockchain
+👯 I’m looking to collaborate on Kaggle competitions
+📫 How to reach me: Linkedin
+www.linkedin.com/in/abdul-rab-a44b151ab
 <!--
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
