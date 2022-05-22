@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Abdul Rab
 I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University, with skills in Machine Learning, Deep Learning, and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Django. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) and java along with the Knowledge of Data Structures and Algorithms.
-My key skills in data science projects include EDA, feature Engineering, data cleaning.
+My key skills in data science projects include EDA, feature Engineering, data cleaning and ML&DL algorithms.
 
 Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
