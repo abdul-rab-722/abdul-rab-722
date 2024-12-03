@@ -26,6 +26,7 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 
 </div>
+
 ## Skills
 - "MLOps :" Code and Data Version Controlling, Model Deployment, AWS(Sagemaker, Lambda, EC2, ECR),
 Model Serving, Model Monitoring, Model Versioning and Experiment Tracking, Automating
