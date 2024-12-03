@@ -2,13 +2,16 @@
 
 <br />-->
 
-### Hi there 👋
-### My name is Abdul Rab
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20There!%20%F0%9F%91%8B%3BI%27m%20Abdul%20Rab%3BWelcome%20to%20my%20GitHub%20Page!&center=true&size=30&width=500&height=70&color=00BFFF&vCenter=true&pause=1000&speed=90">
+</h1>
+
 <div align="center">
   
 ### ML Engineer | Data Scientist | Data Analysis Expert
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/abdul-rab-a44b151ab/)
-[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/rababdul5786_)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle" />](https://www.kaggle.com/rab5786)
+[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/rababdul5786)
 [<img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" />](https://medium.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abdul-rab-722)
 </div>
@@ -19,6 +22,7 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
   
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)](https://www.scikit-learn.org/)
 [![AWS](https://img.shields.io/badge/AWS-Specialist-4285F4?style=flat-square&logo=amazon)](https://aws.amazon.com/)
 [![MLFlow](https://img.shields.io/badge/MLFlow-Proficient-0089D6?style=flat-square&logo=mlflow)](https://mlflow.org.com/)
 [![DVC](https://img.shields.io/badge/DVC-Skilled-009688?style=flat-square&logo=dvc)](https://fastapi.tiangolo.com/)
@@ -76,3 +80,6 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 - 📫 How to reach me: Linkedin
 www.linkedin.com/in/abdul-rab-a44b151ab
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+Visiting!;Khuda+Hafiz!+👋&center=true&size=24">
+</h3>
