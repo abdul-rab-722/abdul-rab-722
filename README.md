@@ -28,19 +28,20 @@ www.linkedin.com/in/abdul-rab-a44b151ab
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdul-rab-722)](https://github.com/abdul-rab-722/abdul-rab-722)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/abdul-rab-722/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/abdul-rab-722/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/abdul-rab-722/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&theme=transparent&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/abdul-rab-722/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&theme=transparent&repo=convoychat" />
 </a>
+
 
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
