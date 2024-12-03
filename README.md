@@ -7,8 +7,8 @@
 <div align="center">
   
 ### ML Engineer | Data Scientist | Data Analysis Expert
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/abdul-rab-722/)
-[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/_)
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/abdul-rab-a44b151ab/)
+[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/rababdul5786_)
 [<img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" />](https://medium.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abdul-rab-722)
 </div>
@@ -16,7 +16,7 @@
 I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University and I have done Data Science Training (DSMP2.0) offered by CampusX with hands on skills in Machine Learning Operations(MLOps), Python, SQL, Statistics, Data Analysis, Machine Learning Modeling and Algorithms, Deep Learning, and NLP. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) along with the Knowledge of Data Structures and Algorithms. "My key skills" in data science projects include Data Cleaning, EDA, Feature Engineering, ML Modeling, Deployment and good understanding of ML&DL algorithms.
 
 <div align="center">
-
+  
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-Specialist-4285F4?style=flat-square&logo=amazon)](https://aws.amazon.com/)
