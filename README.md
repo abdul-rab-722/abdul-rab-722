@@ -18,31 +18,17 @@ Algorithm Optimization,Encoder, Decoder, Transformer, LLM
 - "Tools :" Python(Numpy, Pandas, Matplotlib, Seaborn), SQL, Excel, PowerBI, Scikit-Learn, Tensorflow,
 Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on Kaggle competitions
-- 📫 How to reach me: Linkedin
-www.linkedin.com/in/abdul-rab-a44b151ab
-
-
 <a href="https://github.com/abdul-rab-722/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent&card_width=400" />
 </a>
 <a href="https://github.com/abdul-rab-722/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
-
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m looking to collaborate on Kaggle competitions
+- 📫 How to reach me: Linkedin
+www.linkedin.com/in/abdul-rab-a44b151ab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
