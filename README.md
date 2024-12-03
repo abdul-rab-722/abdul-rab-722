@@ -60,7 +60,7 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
 <div align="center">
 <a href="https://github.com/abdul-rab-722/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=400" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=410" />
 </a>
 <a href="https://github.com/abdul-rab-722/convoychat">
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=360" />
