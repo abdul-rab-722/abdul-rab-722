@@ -29,7 +29,7 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-#### Top Repositories
+<!---#### Top Repositories
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
@@ -48,7 +48,7 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
-**abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Kaggle competitions
