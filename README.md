@@ -53,17 +53,14 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/abdul-rab-722/convoychat">
-  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=400" />
-</a>
 <a href="https://github.com/abdul-rab-722/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=400" />
+</a>
+<a href="https://github.com/abdul-rab-722/convoychat">
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=350" />
 </a>
 
-<!---[![GitHub Streak](https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent)](https://git.io/streak-stats)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!---
 #### Top Repositories
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
