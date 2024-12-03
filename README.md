@@ -23,6 +23,8 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 - 📫 How to reach me: Linkedin
 www.linkedin.com/in/abdul-rab-a44b151ab
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent)
+
 <!--
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
