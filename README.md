@@ -29,6 +29,7 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent)](https://git.io/streak-stats)
 <!---#### Top Repositories
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
