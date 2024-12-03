@@ -1,6 +1,10 @@
-<!---<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdul Rab I do open source!" src="./assets/gh-readme-header.png" /></a></p>-->
+<!---<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdul Rab I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+<br />-->
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/abdul-rab-722/)
+[<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />](https://x.com/_)
+[<img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" />](https://medium.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/abdul-rab-722)
 
 ### Hi there 👋
 ### My name is Abdul Rab
