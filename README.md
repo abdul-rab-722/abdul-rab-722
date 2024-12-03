@@ -24,9 +24,9 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 www.linkedin.com/in/abdul-rab-a44b151ab
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent)](https://github.com/abdul-rab-722/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rab-722&layout=donut)](https://github.com/abdul-rab-722/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rab-722&layout=compact)](https://github.com/abdul-rab-722/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rab-722&layout=donut&show_icons=true&theme=transparent)
+
+
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
