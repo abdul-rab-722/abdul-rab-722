@@ -22,7 +22,7 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
   
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-23F7931E?style=flat-square&logo=scikit-learn)](https://www.scikit-learn.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Skilled-23F7931E?style=flat-square&logo=scikit-learn)](https://www.scikit-learn.org/)
 [![AWS](https://img.shields.io/badge/AWS-Specialist-4285F4?style=flat-square&logo=amazon)](https://aws.amazon.com/)
 [![MLFlow](https://img.shields.io/badge/MLFlow-Proficient-0089D6?style=flat-square&logo=mlflow)](https://mlflow.org.com/)
 [![DVC](https://img.shields.io/badge/DVC-Skilled-009688?style=flat-square&logo=dvc)](https://fastapi.tiangolo.com/)
