@@ -15,19 +15,18 @@
 
 I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University and I have done Data Science Training (DSMP2.0) offered by CampusX with hands on skills in Machine Learning Operations(MLOps), Python, SQL, Statistics, Data Analysis, Machine Learning Modeling and Algorithms, Deep Learning, and NLP. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) along with the Knowledge of Data Structures and Algorithms. "My key skills" in data science projects include Data Cleaning, EDA, Feature Engineering, ML Modeling, Deployment and good understanding of ML&DL algorithms.
 
-
-## Skills
 <div align="center">
 
 ### Core Technologies
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-Specialist-4285F4?style=flat-square&logo=amazon)](https://aws.amazon.com/)
 [![MLFlow](https://img.shields.io/badge/MLFlow-Proficient-0089D6?style=flat-square&logo=mlflow)](https://mlflow.org.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Skilled-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![DVC](https://img.shields.io/badge/DVC-Skilled-009688?style=flat-square&logo=dvc)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 
 </div>
+## Skills
 - "MLOps :" Code and Data Version Controlling, Model Deployment, AWS(Sagemaker, Lambda, EC2, ECR),
 Model Serving, Model Monitoring, Model Versioning and Experiment Tracking, Automating
 and Scaling, Model Retraining, Model Explaining
