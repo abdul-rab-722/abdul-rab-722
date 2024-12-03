@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdul Rab I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
@@ -35,7 +35,7 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&repo=github-readme-stats&theme=transparent" />
 </a>
 <a href="https://github.com/abdul-rab-722/abdul-rab-722.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&repo=abdul-rab-722.github.io&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&repo=[abdul-rab-722.github.io](https://olympic-analysis-722.streamlit.app/)&theme=transparent" />
 </a>
 
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
