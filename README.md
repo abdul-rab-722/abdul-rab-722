@@ -1,3 +1,7 @@
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 ### Hi there 👋
 ### My name is Abdul Rab
 I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University and I have done Data Science Training (DSMP2.0) offered by CampusX with hands on skills in Machine Learning Operations(MLOps), Python, SQL, Statistics, Data Analysis, Machine Learning Modeling and Algorithms, Deep Learning, and NLP. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) along with the Knowledge of Data Structures and Algorithms.
@@ -23,6 +27,15 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 </a>
 <a href="https://github.com/abdul-rab-722/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+#### Top Repositories
+
+<a href="https://github.com/abdul-rab-722/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&repo=github-readme-stats&theme=transparent" />
+</a>
+<a href="https://github.com/abdul-rab-722/abdul-rab-722.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-rab-722&repo=abdul-rab-722.github.io&theme=transparent" />
 </a>
 
 **abdul-rab-722/abdul-rab-722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
