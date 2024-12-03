@@ -48,10 +48,10 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
 
 <div align "center">
-<a href="https://github.com/abdul-rab-722/github-readme-stats">
+<a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent&card_width=380" />
 </a>
-<a href="https://github.com/abdul-rab-722/convoychat">
+<a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rab-722&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
@@ -59,10 +59,10 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
 
 <div align="center">
-<a href="https://github.com/abdul-rab-722/github-readme-stats">
+<a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=410" />
 </a>
-<a href="https://github.com/abdul-rab-722/convoychat">
+<a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=360" />
 </a>
 </div>
