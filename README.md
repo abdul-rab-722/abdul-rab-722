@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20There!%20%F0%9F%91%8B%3BI%27m%20Abdul%20Rab%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%20Page!&center=true&size=30&width=500&height=70&color=00BFFF&vCenter=true&pause=1000&speed=90">
 </h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
-
 <div align="center">
 
 ### ML Engineer | Data Scientist | Data Analysis Expert
@@ -47,6 +45,8 @@ XGBoost, CatBoost, LightGBM, SVM, KNN, Logistic Regression.
 Algorithm Optimization,Encoder, Decoder, Transformer, LLM
 - "Tools :" Python(Numpy, Pandas, Matplotlib, Seaborn), SQL, Excel, PowerBI, Scikit-Learn, Tensorflow,
 Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
 
 
 <div align "center">
