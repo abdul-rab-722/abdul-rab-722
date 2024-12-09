@@ -31,6 +31,8 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
 
 </div>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
+
 ## Skills
 - "MLOps :" Code and Data Version Controlling, Model Deployment, AWS(Sagemaker, Lambda, EC2, ECR),
 Model Serving, Model Monitoring, Model Versioning and Experiment Tracking, Automating
@@ -65,9 +67,6 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=360" />
 </a>
 </div>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
 
 
 <!---#### Top Repositories
