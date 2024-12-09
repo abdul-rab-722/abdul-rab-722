@@ -46,9 +46,6 @@ Algorithm Optimization,Encoder, Decoder, Transformer, LLM
 - "Tools :" Python(Numpy, Pandas, Matplotlib, Seaborn), SQL, Excel, PowerBI, Scikit-Learn, Tensorflow,
 Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
-
-
 <div align "center">
 <a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-rab-722&show_icons=true&theme=transparent&card_width=320" />
@@ -69,6 +66,8 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 </a>
 </div>
 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
 
 
 <!---#### Top Repositories
