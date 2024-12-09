@@ -18,6 +18,10 @@
 
 I have completed Bachelor of Technology in Computer Science & Engineering from Bundelkhand University and I have done Data Science Training (DSMP2.0) offered by CampusX with hands on skills in Machine Learning Operations(MLOps), Python, SQL, Statistics, Data Analysis, Machine Learning Modeling and Algorithms, Deep Learning, and NLP. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python(NumPy, Pandas, Matplotlib) along with the Knowledge of Data Structures and Algorithms. "My key skills" in data science projects include Data Cleaning, EDA, Feature Engineering, ML Modeling, Deployment and good understanding of ML&DL algorithms.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rab-722" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=gitdimmed&column=4&row=1" alt="abdul-rab-722" /></a> </p>
+
 <div align="center">
   
 ### Core Technologies
@@ -30,11 +34,6 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io/)
 
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=flat&theme=transparent" alt="abdul-rab-722" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=transparent&column=4&row=1" alt="abdul-rab-722" /></a> </p>
-
 
 ## Skills
 - "MLOps :" Code and Data Version Controlling, Model Deployment, AWS(Sagemaker, Lambda, EC2, ECR),
