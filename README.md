@@ -31,6 +31,11 @@ I have completed Bachelor of Technology in Computer Science & Engineering from B
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdul-rab-722&label=Profile%20views&color=0e75b6&style=flat&theme=transparent" alt="abdul-rab-722" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rab-722&theme=transparent&column=4&row=1" alt="abdul-rab-722" /></a> </p>
+
+
 ## Skills
 - "MLOps :" Code and Data Version Controlling, Model Deployment, AWS(Sagemaker, Lambda, EC2, ECR),
 Model Serving, Model Monitoring, Model Versioning and Experiment Tracking, Automating
