@@ -61,12 +61,14 @@ Git, Github, DVC, AWS, Docker, Kubernetes, CI/CD, MLFlow, Seldon, Grafana, SHAP.
 
 <div align="center">
 <a href="https://github.com/abdul-rab-722">
-  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=320" />
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=abdul-rab-722&limit=4&theme=transparent&combine_all_yearly_contributions=true&card_width=420" />
 </a>
 <a href="https://github.com/abdul-rab-722">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abdul-rab-722&theme=transparent&card_width=320" />
 </a>
 </div>
+
+
 
 
 <!---#### Top Repositories
